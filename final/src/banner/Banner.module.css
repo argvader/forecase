@@ -1,0 +1,9 @@
+.banner {
+  background-color: #8223d2;
+  height: 140px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2em;
+}

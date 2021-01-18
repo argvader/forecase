@@ -1,10 +1,13 @@
 import React from 'react';
+import Banner from './banner';
+import Forecast from './forecast';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Your Application Here
+      <Banner></Banner>
+      <Forecast></Forecast>
     </div>
   );
 }
